@@ -1,30 +1,30 @@
 # Página Colaborativa de Receitas
 
-Este projeto tem como objetivo criar uma página colaborativa com receitas compartilhadas pelos integrantes do grupo.
-
-## Instruções
-- Clique em “Use this template”
-- Crie seu próprio repositório em grupo
-- Siga os exercícios em docs/roteiro_de_atividades.pdf
-- Preencha docs/relatorio.md ao final
-- Entregue o link do repositório no GoogleClassRoom
-- Não esqueça de adicionar o professor como colaborador do seu projeto alexsteil-istec
-
+Este projeto tem como objetivo criar uma página colaborativa com receitas partilhadas pelos integrantes do grupo, aplicando boas práticas de versionamento com Git e GitHub.
 
 ## Integrantes
-- Nome 1
-- Nome 2
-- Nome 3
+- Diogo Esteves
+- Gabriel Simão
+- Kauan Fortunato
+- Daniel Fiel
 
-## Descrição
-Os integrantes devem adicionar receitas em arquivos markdown ou HTML, utilizando boas práticas de versionamento com Git e GitHub.
+## Receitas
+As receitas estão em [`src/receitas/`](src/receitas/) e listadas na página [`src/index.html`](src/index.html):
+- 🧀 Pão de Queijo — Diogo Esteves
+- 🥕 Bolo de Cenoura com Cobertura de Chocolate — Gabriel Simão
+- 🥧 Pastéis de Nata — Kauan Fortunato
+- 🌱 Panquecas Veganas de Banana — Daniel Fiel
+- 🥤 Smoothie Tropical do Grupo (receita colaborativa) — Todos
 
 ## Como Contribuir
-Veja o arquivo [CONTRIBUTING.md](CONTRIBUTING.md).
+Veja o ficheiro [CONTRIBUTING.md](CONTRIBUTING.md). Em resumo: uma branch por receita, commits claros, Pull Request com revisão de um colega e uso de Issues.
 
-## Serão avaliados:
+## Padrão de nomes dos ficheiros
+As receitas seguem o padrão `receita-nome.md` (ex.: `receita-pao-de-queijo.md`).
+
+## Serão avaliados
 - Participação de cada aluno (Insights > Contributors)
 - Organização de branches e commits
 - Uso de issues e pull requests
 - Conflitos resolvidos (se houver)
-- Preenchimento do relatório final
+- Preenchimento do relatório final ([docs/relatorio.md](docs/relatorio.md))
