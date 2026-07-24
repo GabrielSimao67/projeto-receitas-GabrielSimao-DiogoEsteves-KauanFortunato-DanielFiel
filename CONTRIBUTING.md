@@ -9,3 +9,4 @@
 ## Padrão de nomes
 - Branches: feature/nomedareceita, fix/ajusteX
 - Commits: mensagens como "feat: adicionar receita de bolo de cenoura"
+- Ficheiros de receita: receita-nome.md (ex.: receita-pao-de-queijo.md)
