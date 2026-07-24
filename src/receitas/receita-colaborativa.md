@@ -9,3 +9,4 @@
 - Folhas de hortelã para decorar
 ## Modo de preparação (um passo por integrante)
 1. **(Diogo Esteves)** Colocar a banana e o gelo no liquidificador e triturar.
+2. **(Gabriel Simão)** Juntar a manga congelada e triturar novamente.
