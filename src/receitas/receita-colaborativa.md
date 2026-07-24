@@ -11,3 +11,4 @@
 1. **(Diogo Esteves)** Colocar a banana e o gelo no liquidificador e triturar.
 2. **(Gabriel Simão)** Juntar a manga congelada e triturar novamente.
 3. **(Kauan Fortunato)** Adicionar o sumo de laranja até obter a consistência desejada.
+4. **(Daniel Fiel)** Servir em copos altos e decorar com hortelã.
