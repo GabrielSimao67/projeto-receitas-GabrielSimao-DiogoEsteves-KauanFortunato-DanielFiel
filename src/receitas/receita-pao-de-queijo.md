@@ -20,7 +20,7 @@ Receita tradicional do pão de queijo mineiro, estaladiço por fora e macio por 
 4. Deixar amornar. Juntar os ovos, um a um, mexendo sempre.
 5. Adicionar o queijo ralado e amassar até obter uma massa lisa.
 6. Fazer bolinhas com as mãos untadas com óleo e dispor num tabuleiro.
-7. Levar ao forno durante cerca de 20 mniutos, até estarem dourados.
+7. Levar ao forno durante cerca de 20 minutos, até estarem dourados.
 
 ## Dica
 Sirva quente. Congelam muito bem crus — asse diretamente do congelador.
